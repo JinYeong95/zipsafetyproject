@@ -1,0 +1,6 @@
+
+train: C:\Users\82107\Desktop\Assign2\train\images
+val: C:\Users\82107\Desktop\Assign2\val\images
+
+nc: 2
+names: ['youngjoon', 'sungmin']
