@@ -19,6 +19,7 @@ on_harness와 on_helmet이 절반 이상 인식될 경우 출입 및 출근을 �
 ## 3. 활용 데이터 셋
 <div align="center">
   <div align="center">
+  <img width="80%" height="80%" src="https://github.com/JinYeong95/zipsafetyproject/assets/117560090/461402c9-162c-432e-9623-9f31abab76de"/>
   <img width="80%" height="80%" src="https://github.com/JinYeong95/zipsafetyproject/assets/117560090/97d80f61-387c-45fb-bbeb-68ac8336170e"/>
 </div>
   <br>
