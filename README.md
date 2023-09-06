@@ -25,7 +25,7 @@ on_harness와 on_helmet이 절반 이상 인식될 경우 출입 및 출근을 �
 AI HUB 공사현장 안전장비 인식 이미지을 사용<br>
 착용 시 on_harness, on_helmet으로 인식<br>
 착용하지 않을시 off_harness, off_helmet으로 인식<br>
-images와 labels로 구분<br>
+images와 labels로 구분하였습니다.<br>
   <br>
 </div>
 
@@ -33,5 +33,5 @@ images와 labels로 구분<br>
 <div align="center">
   <img width="50%" height="50%" src="https://github.com/JinYeong95/zipsafetyproject/assets/117560090/73f9bc97-b8c4-4d72-a52d-cc02634f02d8"/>
   <br>
-  YOLOv5s 모델을 사용
+  YOLOv5s 모델을 사용하였습니다.
 </div>
